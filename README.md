@@ -1,4 +1,4 @@
-![banner](https://i.ibb.co/wrzzffQ/1672003082939.jpg)
+![banner](https://i.ibb.co/vjqFXCf/Beige-Minimalist-Profile-Linked-In-Banner.jpg)
 <h1 align="center">Hi 👋, I'm Amit Sarker</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align='right' src='https://i.ibb.co/NmG0nj1/IMG-20230211-123003.jpg' height='350px'>
