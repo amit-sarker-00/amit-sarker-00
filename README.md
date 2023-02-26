@@ -1,4 +1,4 @@
-![banner](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![banner](https://i.ibb.co/wrzzffQ/1672003082939.jpg)
 <h1 align="center">Hi 👋, I'm Amit Sarker</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 <img align='right' src='https://i.ibb.co/NmG0nj1/IMG-20230211-123003.jpg' height='350px'>
